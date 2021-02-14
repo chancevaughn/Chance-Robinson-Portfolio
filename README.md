@@ -4,7 +4,7 @@
 
 This website is the start of a professional portfolio that will showcase all of my most recent and impressive projects.  
 
-![Screenshot](assets/Screen Shot 2021-02-13 at 10.27.51 PM.png)
+![Screenshot](https://github.com/chancevaughn/Chance-Robinson-Portfolio/blob/main/assets/Screen%20Shot%202021-02-13%20at%2010.27.51%20PM.png)
 
 ## Multi-Screen Compatibility
 
